@@ -1,0 +1,8 @@
+
+
+
+GET http://localhost:3000/articles?search=nelson mandela
+
+
+###
+GET http://localhost:3000/articles/new?page=Contaminación
